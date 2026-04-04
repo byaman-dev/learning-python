@@ -29,3 +29,4 @@ print(f"Is 10 == 9? {10 == 9}")
 # 5. Testing the 'len' function
 message = "Learning Python with Harry"
 print(f"Character count of message: {len(message)}")
+

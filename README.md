@@ -21,7 +21,6 @@ This repository is dedicated to my progress through the **Complete Python Course
 * **[Chapter-1-Intro/](./Chapter-1-Intro/):** The basics of how Python works and its history.
 * **[Chapter-2-Setup/](./Chapter-2-Setup/):** Details on setting up the local environment and VS Code.
 * **[Chapter-3-Modules/](./Chapter-3-Modules/):** Practice with external libraries and `pip`.
-* **[Practice-Sets/](./Practice-Sets/):** My solutions to the end-of-chapter challenges.
 
 ---
 

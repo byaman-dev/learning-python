@@ -1,5 +1,5 @@
 # 🐍 Python Learning Journey: CodeWithHarry
-> **"Mastering Python from scratch through logic, projects, and practice."**
+> **"Mastering Python from scratch through logic, practice, and projects."**
 
 This repository is dedicated to my progress through the **Complete Python Course by CodeWithHarry**. It contains my notes, code snippets, and solutions to the practice sets.
 
@@ -10,7 +10,7 @@ This repository is dedicated to my progress through the **Complete Python Course
 | Chapter | Topic | Status | Highlights |
 | :--- | :--- | :--- | :--- |
 | **Ch 1** | Intro to Python | ✅ Done | History, Features, "Hello World" |
-| **Ch 2** | Setup & Environment | ✅ Done | VS Code, Internal vs External Modules |
+| **Ch 2** | Setup & Environment | ✅ Done | VS Code, REPL, Running `.py` files |
 | **Ch 3** | Modules, Pip & Comments | ✅ Done | Using `pip install`, `pyttsx3`, Comments |
 | **Ch 4** | Variables & Data Types | 🚀 Current | Typecasting, `input()` function |
 | **Ch 5** | Strings | 📅 Next | Slicing, String Functions |
@@ -18,7 +18,8 @@ This repository is dedicated to my progress through the **Complete Python Course
 ---
 
 ## 📂 Repository Structure
-* **[Chapter-1-Intro/](./Chapter-1-Intro/):** The basics of how Python works.
+* **[Chapter-1-Intro/](./Chapter-1-Intro/):** The basics of how Python works and its history.
+* **[Chapter-2-Setup/](./Chapter-2-Setup/):** Details on setting up the local environment and VS Code.
 * **[Chapter-3-Modules/](./Chapter-3-Modules/):** Practice with external libraries and `pip`.
 * **[Practice-Sets/](./Practice-Sets/):** My solutions to the end-of-chapter challenges.
 
@@ -27,8 +28,8 @@ This repository is dedicated to my progress through the **Complete Python Course
 ## 🛠️ My Tech Stack
 * **Language:** Python 3.12+
 * **Editor:** Visual Studio Code (VS Code)
-* **Terminal:** Power Shell / Bash
-* **Key Packages:** `pyttsx3` (Text-to-Speech)
+* **Terminal:** PowerShell / Bash
+* **Key Packages:** `pyttsx3` (Text-to-Speech), `pandas` (Upcoming)
 
 ---
 

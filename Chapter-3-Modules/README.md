@@ -27,3 +27,9 @@ I successfully implemented the `pyttsx3` module to make my computer talk.
 **Execution:**
 1. Run `pip install pyttsx3`
 2. Run `python main.py`
+
+## 🛠️ Pip Installation & Troubleshooting
+During Chapter 3, I learned how to manage Pip:
+1. **Verification:** Used `pip --version` to confirm installation.
+2. **Path Management:** Learned that the `Scripts` folder must be in the System PATH to run global commands.
+3. **Safety First:** Verified the `pyttsx3` package on PyPI to avoid malicious clones.

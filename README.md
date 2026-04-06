@@ -7,24 +7,22 @@ This repository is dedicated to my progress through the **Complete Python Course
 
 ## 📅 Learning Roadmap & Progress
 
-### 🟢 Phase 1: Python Fundamentals
-- [x] **Chapter 1: Modules, Pip & Comments** - Setting up the environment.
-- [x] **Chapter 2: Variables & Data Types** - Understanding how data is stored.
-- [x] **Chapter 3: Strings** - Manipulating text and formatting.
-- [x] **Chapter 4: Lists & Tuples** - Managing collections of data. 👈 *Current Milestone*
-- [ ] **Chapter 5: Dictionary & Sets** - Mapping data for security databases.
+### 🟢 Phase 1: Foundation (Current)
+- [x] **Chapter 1:** Introduction & Internal Logic
+- [x] **Chapter 2:** Environment Setup & VS Code
+- [x] **Chapter 3:** Modules & PIP (Package Management)
+- [x] **Chapter 4:** Variables & Data Types 
+- [ ] **Chapter 5:** String Manipulation & Slicing
 
-### 🟡 Phase 2: Logic & Functions
-- [ ] **Chapter 6: Conditional Expressions** - Building decision-making scripts.
-- [ ] **Chapter 7: Loops** - Automating repetitive security scans.
-- [ ] **Chapter 8: Functions & Recursions** - Writing reusable, clean code.
+### 🟡 Phase 2: Automation & Logic
+- [ ] **Chapter 6:** Conditional Expressions (Security Firewalls)
+- [ ] **Chapter 7:** Loops (Automated Scanning)
+- [ ] **Chapter 8:** Functions & Recursion (Modular Code)
 
-### 🔴 Phase 3: Advanced & AI Prep
-- [ ] **File I/O** - Reading/Writing logs and malware signatures.
-- [ ] **Object-Oriented Programming (OOPS)** - Scalable system design.
-- [ ] **Project 1:** Jarv-AI (Basic Voice Assistant)
-- [ ] **Project 2:** AI-Powered Threat Detector
-
+### 🔴 Phase 3: Advanced Systems
+- [ ] **Chapter 9:** File I/O (Security Log Management)
+- [ ] **Chapter 10:** Object-Oriented Programming (System Architecture)
+- [ ] **Project:** JarvAI - Advanced Voice Assistant
 ---
 
 ## 📂 Repository Structure

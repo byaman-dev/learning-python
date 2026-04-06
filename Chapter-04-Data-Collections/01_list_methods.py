@@ -17,3 +17,4 @@ print(f"Sorted threat report: {threats}")
 # 5. Removing a threat after it has been patched
 threats.remove("Adware")
 print(f"Remaining threats to fix: {threats}")
+

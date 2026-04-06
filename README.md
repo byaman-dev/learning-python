@@ -30,7 +30,7 @@ This repository is dedicated to my progress through the **Complete Python Course
 I have organized this project by **Engineering Concepts** to demonstrate a systems-level understanding of Python.
 
 * **[Chapter-01-Fundamentals/](./Chapter-01-Fundamentals/):** Introduction to Python's internal architecture, history, and basic syntax.
-* **[Chapter-2: Environment & Setup](./Chapter-2%20Environment%20%26%20Setup/):** Configuration of the local development environment, VS Code extensions, and Interpreter settings.
+* **[Chapter-2: Environment & Setup](./Chapter-02-Environment-Setup/):** Configuration of the local development environment, VS Code extensions, and Interpreter settings.
 * **[Chapter-03-Package-Management/](./Chapter-03-Package-Management/):** Hands-on practice with the `pip` package manager and integrating external libraries.
 * **[Chapter-04-Data-Collections/](./Chapter-04-Data-Collections/):** Implementation of Lists (dynamic data) and Tuples (immutable constants) for security data handling.
 * **[Chapter-05-Hashing-and-Sets/](./Chapter-05-Hashing-and-Sets/):** *(Upcoming)* Using Dictionaries and Sets for high-speed data retrieval and unique identifier management.

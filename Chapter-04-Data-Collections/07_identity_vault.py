@@ -42,3 +42,4 @@ print(f"In 5 years, this user will be {future_age} years old.")
 # "Sanitizing" inputs by casting them to specific types (int/float) 
 # is the first step in preventing malicious data injection.
 # ==========================================================
+

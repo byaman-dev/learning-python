@@ -36,11 +36,11 @@ I have implemented the following logic based on the *Code with Harry* curriculum
 | :--- | :--- | :--- |
 | ✅ | **Hindi-English Translator** | Key-value lookup for word translations. |
 | ✅ | **Unique Number Collector** | Using a `Set` to filter 8 user inputs into unique values. |
-| 🟡 | **Type Flexibility Test** | Proving `int` vs `string` uniqueness (e.g., `18` vs `"18"`). |
+| ✅ | **Type Flexibility Test** | Proving `int` vs `string` uniqueness (e.g., `18` vs `"18"`). |
 | ⚪ | **Length Comparison Lab** | Calculating set size fluctuations with mixed data types. |
 | ⚪ | **Friend-Language Map** | Ensuring unique keys for users, even if values (languages) repeat. |
 
-**Current Chapter Progress:** `[██████████░░░░░░░░░]` **50%**
+**Current Chapter Progress:** `[██████████████████░░] **90%**
 
 ---
 

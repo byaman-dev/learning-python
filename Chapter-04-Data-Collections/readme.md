@@ -37,12 +37,7 @@ In this folder, I have completed the following exercises from the Code with Harr
 
 ---
 
-## 📈 Progress Tracker
-- [x] Chapter 1: Modules, Pip & Comments
-- [x] Chapter 2: Variables & Data Types
-- [x] Chapter 3: Strings
-- [x] **Chapter 4: Lists & Tuples** 👈 (Current)
-- [ ] Chapter 5: Dictionary & Sets
+
 
 **Author:** @byaman-dev  
 **Course:** Python 100 Days of Code (Code with Harry)

@@ -20,6 +20,14 @@ print(f"Final Set Content: {s}")
 print(f"Final Set Length:  {len(s)}")
 
 
+
+# 4. SCIENTIFIC VERIFICATION
+# Proving why the length is 2 and not 3.
+print("\n[LOGICAL PROOF]")
+print(f"Check: Does 20 == 20.0?  -> {20 == 20.0}")
+print(f"Check: Does 20 == '20'?  -> {20 == '20'}")
+
+
 # ==========================================================
 # RESEARCH NOTE:
 # Python Sets use a 'Hash Table'. For two items to be unique, 

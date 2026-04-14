@@ -1,6 +1,6 @@
 '''
 PROJECT: PyBasics Master Manager
-AUTHOR: [Your Name]
+AUTHOR: [ ByAman.Dev ]
 DESCRIPTION: A comprehensive project combining Chapters 1-5 of CodeWithHarry's Python Course.
 CONCEPTS: Modules, Pip, Strings, Lists, Tuples, Dictionaries, and Sets.
 '''

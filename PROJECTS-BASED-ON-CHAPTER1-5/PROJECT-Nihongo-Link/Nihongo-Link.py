@@ -81,3 +81,24 @@ def run_translator():
     query = input(f"Enter {source_lang} text: ").lower().strip()
 
           
+# --- CHAPTER 4: LIST PROCESSING ---
+    words = query.split()
+    results = []
+
+    for w in words:
+        # Ch 5: .get() ensures we don't crash on unknown words
+        translation = active_dict.get(w, f"<{w}?>")
+        results.append(translation)
+
+# --- CHAPTER 3: OUTPUT ---
+    final_output = " ".join(results)
+    print(f"\nResult: {final_output}")
+    print(f"\n(Note: Words marked with <?> are not in our database yet.)")
+
+# --- CHAPTER 1: MAIN EXECUTION ---
+if __name__ == "__main__":
+    run_translator()
+    
+    # Show database stats using Ch 5 Set concepts
+    unique_entries = set(vocabulary.keys())
+    print(f"\n[System Log]: Database contains {len(unique_entries)} unique word pairs.")

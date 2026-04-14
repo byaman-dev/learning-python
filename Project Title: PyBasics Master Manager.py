@@ -30,3 +30,12 @@ print(welcome_note)
 print(f"Total characters in your name: {len(user_name)}")
 print(f"Lowercase version: {user_name.lower()}")
 
+# --- CHAPTER 4: LISTS & TUPLES ---
+# Lists (Mutable) and Tuples (Immutable)
+subjects_list = ["Python", "Java", "C++"] # This can be changed
+coordinates = (28.6139, 77.2090)          # Location of Delhi (fixed)
+
+print(f"\nDefault Subjects: {subjects_list}")
+new_sub = input("Add a new subject to the list: ")
+subjects_list.append(new_sub) # Adding to list
+print(f"Updated Subject List: {subjects_list}")

@@ -1,6 +1,6 @@
 '''
-PROJECT: Ultra-Nihongo Translator Pro
-EXPANDED DATABASE: 30+ Core Terms
+PROJECT: Nihongo-Link Translator
+DESCRIPTION: A 2-way translator (Eng-Jap & Jap-Eng) using logic from Ch 1-5.
 CONCEPTS: Dictionary Comprehension (Ch 5), String formatting (Ch 3), 
           List iteration (Ch 4), and formatted printing.
 '''

@@ -21,3 +21,12 @@ def welcome_message():
 app_version = 1.0  # Float
 is_active = True   # Boolean
 print(f"Running App Version: {app_version}")
+
+# --- CHAPTER 3: STRINGS ---
+# Demonstrating slicing, formatting, and string methods
+user_name = input("Enter your name: ").strip().capitalize()
+welcome_note = f"Hello {user_name}, welcome to the project!"
+print(welcome_note)
+print(f"Total characters in your name: {len(user_name)}")
+print(f"Lowercase version: {user_name.lower()}")
+

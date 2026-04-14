@@ -16,3 +16,8 @@ def welcome_message():
     engine.say("Welcome to the Python Master Manager")
     engine.runAndWait()
 
+# --- CHAPTER 2: VARIABLES & DATA TYPES ---
+# Using different data types: int, str, and input() function
+app_version = 1.0  # Float
+is_active = True   # Boolean
+print(f"Running App Version: {app_version}")
